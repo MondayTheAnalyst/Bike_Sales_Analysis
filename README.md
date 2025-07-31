@@ -48,7 +48,7 @@ BikeSalesProject/
 │
 ├── Data/                        # Source dataset used in Tableau
 │   ├── Sales.xlsx              
-├── screenshots/                 # Tableau dashboard snapshots
+├── images/                 # Tableau dashboard snapshots
 │   ├── dashboard_2011.png
 │   ├── dashboard_2016.png
 │   
