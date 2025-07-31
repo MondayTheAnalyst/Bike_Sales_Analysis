@@ -46,7 +46,8 @@ Key visuals from the Tableau dashboard include:
 ```
 BikeSalesProject/
 │
-├── Sales.xlsx                   # Source dataset used in Tableau
+├── Data/                        # Source dataset used in Tableau
+│   ├── Sales.xlsx              
 ├── screenshots/                 # Tableau dashboard snapshots
 │   ├── dashboard_2011.png
 │   ├── dashboard_2016.png
